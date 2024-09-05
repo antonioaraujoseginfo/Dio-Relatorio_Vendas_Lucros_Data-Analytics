@@ -83,8 +83,8 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Contato
 
-Nome: Antonio Araújo
-Email: antonioaraujolb@gmail.com
-LinkedIn: https://www.linkedin.com/in/antonio-araujo-seginfo/
+- **Nome:** Antonio Araújo
+- **Email:** antonioaraujolb@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/antonio-araujo-seginfo/
 
 ---
